@@ -3,7 +3,7 @@ Rohit Gopal
 	  This file is to factorize a given number into its primes
 	  usage: ruby factorize.rb 
 
-	  Going to redo implementing a Quadratic Sieve
+	  Going to redo implementing a Quadratic Sieve later on.. for now this works (with small integers)
 =end
 
 require 'prime'
